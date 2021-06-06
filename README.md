@@ -1,4 +1,9 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunoafabricio&show_icons=true&theme=tokyonight" width="380">
+
 ### Hi there 👋
+
+- Blog: [betwome.com](https://betwome.com)
+- Email: brunof.tech@gmail.com
 
 <!--
 **brunoafabricio/brunoafabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
