@@ -4,7 +4,9 @@
 
 <h2> I'm a Developer, Circuit Maker<br> and Garage Scientist(DIY Lover).
 </h2>
+
 - Blog: [betwome.com](https://betwome.com)
+
 - Email: brunof.tech@gmail.com
 
 - 🔭 I’m currently working on BeTwoMe
