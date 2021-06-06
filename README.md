@@ -2,8 +2,8 @@
 
 ### Hi, I'm Bruno Aranalde Fabricio 👋
 
-## I'm a Developer, Circuit Maker\ and Garage Scientist(DIY Lover).
-
+<h2> I'm a Developer, Circuit Maker<br> and Garage Scientist(DIY Lover).
+</h2>
 - Blog: [betwome.com](https://betwome.com)
 - Email: brunof.tech@gmail.com
 
