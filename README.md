@@ -1,8 +1,6 @@
 ### Hi, I'm Bruno Aranalde Fabricio 👋
-
-<h2> I'm a Developer, Circuit Maker<br> and Garage Scientist(DIY Lover)! </h2>
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brunoafabricio&show_icons=true&theme=tokyonight" width="380">
+<h2> I'm a Developer, Circuit Maker<br> and Garage Scientist(DIY Lover)! </h2>
 
 - 🔭 I’m currently working on BeTwoMe
 - 🌱 I’m currently learning Cyber Defense, Networks, Next.js, Python, Machine Learning 
