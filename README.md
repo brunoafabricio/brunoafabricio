@@ -1,8 +1,9 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunoafabricio&show_icons=true&theme=tokyonight" width="380">
-
 ### Hi, I'm Bruno Aranalde Fabricio 👋
 
 <h2> I'm a Developer, Circuit Maker<br> and Garage Scientist(DIY Lover)! </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/brunoafabricio/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunoafabricio&show_icons=true&theme=tokyonight" width="380">
 
 - 🔭 I’m currently working on BeTwoMe
 - 🌱 I’m currently learning Cyber Defense, Networks, Next.js, Python, Machine Learning 
@@ -17,4 +18,4 @@
 [linkedin]: https://linkedin.com/in/brunoafabricio/
 [website]: https://betwome.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/brunoafabricio/github-readme-stats)
+
