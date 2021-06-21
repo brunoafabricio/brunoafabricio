@@ -16,3 +16,5 @@
 
 [linkedin]: https://linkedin.com/in/brunoafabricio/
 [website]: https://betwome.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/brunoafabricio/github-readme-stats)
