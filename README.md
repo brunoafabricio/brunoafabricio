@@ -2,7 +2,6 @@
 
 <h2> I'm a Developer, Circuit Maker<br> and Garage Scientist(DIY Lover)! </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/brunoafabricio/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brunoafabricio&show_icons=true&theme=tokyonight" width="380">
 
 - 🔭 I’m currently working on BeTwoMe
@@ -11,6 +10,8 @@
 - 🤔 I’m looking for help with design
 - 💬 Ask me about JavaScript, C, Assembly, C++, Microcontrollers, Physics 
 - 📫 How to reach me: bruno@betwome.com **|** brunof.tech@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/brunoafabricio/github-readme-stats)
 
 👔 [linkedin][linkedin] **|** 
 🏡 [website][website] 
